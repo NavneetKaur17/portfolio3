@@ -1,0 +1,29 @@
+h1
+{
+    color: palevioletred;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+p#test1
+{
+    color:blue;
+    font-style: normal;
+
+}
+
+
+ol
+{
+    color: green;
+    font: 100px;
+} 
+
+p#test2
+{
+    color: chocolate;
+}
+
+p{
+    color:brown
+}
